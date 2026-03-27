@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+.env
+
+# Project specific
+data/
+.streamlit/
+*.pkl
+*.csv
